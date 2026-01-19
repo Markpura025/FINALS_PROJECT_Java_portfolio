@@ -1,1 +1,6 @@
+This Java models a smart home control system that manages electronic devices such as: 
+air conditioners, lamps, televisions, and microwaves. on Object-oriented programming (OOP) this called inheritance, abstraction, and polymorphism.
 
+because of this we can Manage of devices using a List like:
+- Controlling devices collectively (turning all on/off).
+- Tracking the number of devices currently powered on Using constructors,including a copy constructor.Encapsulation with getter and setter.
