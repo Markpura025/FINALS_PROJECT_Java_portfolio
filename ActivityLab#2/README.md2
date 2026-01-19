@@ -1,4 +1,4 @@
-The code have two classes:
+This code have two classes:
 - Book: Represents a book with attributes like title, author, year published, and current page.
 - MyBookList: Manages an array of Book objects, performs operations such as displaying book details, updating pages, changing authors, and filtering books based on the year published.
 
